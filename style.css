@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
-<body>
-<h1>Vukuad</h1>
-</body>
+
 body {
     background: #e9e9e9;
     background-image: url('background.jpg');
@@ -13,6 +11,9 @@ body {
     align-items: center;
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
+    <body>
+<h1>Vukuad</h1>
+</body>;
 }
 
 body:after {
