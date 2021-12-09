@@ -11,7 +11,7 @@ body {
     align-items: center;
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
-    <h1>Vukuad</h1>
+    <h1>Heading 1</h1>;
 }
 
 body:after {
